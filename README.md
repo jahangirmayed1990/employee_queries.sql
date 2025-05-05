@@ -1,4 +1,4 @@
-# Employee_queries.sql
+# Employee Related Queries
 ## Employee SQL Analysis (SSMS)
 This project contains SQL queries written in Microsoft SQL Server Management Studio (SSMS) to analyze employee data. The queries cover various business questions related to departments, jobs, salaries, and employee joining trends.
 
